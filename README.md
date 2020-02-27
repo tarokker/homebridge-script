@@ -15,8 +15,6 @@ This fork depends on file-exists however there is no need to install it seperate
 3. Update your configuration file. See `sample-config.json` in this repository for a sample.
 4. Copy scripts (*.sh) files to own directory.
 
-For autostart homebridge with OSX copy com.homebridge.startup.plist to /Library/LaunchDaemons
-
 Homebridge-script configuration parameters
 
 Name | Value | Required | Notes
